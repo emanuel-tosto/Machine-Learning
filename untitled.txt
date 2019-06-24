@@ -1,0 +1,43 @@
+COMP_TOT - Total number of companies 2016 - source
+
+COMP_A Number of Companies: Agriculture, livestock, forestry, fishing and aquaculture - 2016 - source
+
+COMP_B Number of Companies: Extractive industries 2016 - source
+
+COMP_C Number of Companies: Industries of transformation - 2016 - source
+
+COMP_D Number of Companies: Electricity and gas - 2016 - source
+
+COMP_E Number of Companies: Water, sewage, waste management and decontamination activities - 2016 - source
+
+COMP_F Number of Companies: Construction - 2016 - source
+
+COMP_G - Number of Companies: Trade; repair of motor vehicles and motorcycles - 2016 - source
+
+COMP_H - Number of Companies: Transport, storage and mail - 2016 - source
+
+COMP_I - Number of Companies: Accommodation and food - 2016 - source
+
+COMP_J - Number of Companies: Information and communication - 2016 - source
+
+COMP_K - Number of Companies: Financial, insurance and related services activities - 2016 - source
+
+COMP_L - Number of Companies: Real estate activities - 2016 - source
+
+COMP_M - Number of Companies: Professional, scientific and technical activities - 2016 - source
+
+COMP_N - Number of Companies: Administrative activities and complementary services - 2016 - source
+
+COMP_O - Number of Companies: Public administration, defense and social security - 2016 - source
+
+COMP_P - Number of Companies: Education - 2016 - source
+
+COMP_Q - Number of Companies: Human health and social services - 2016 - source
+
+COMP_R - Number of Companies: Arts, culture, sport and recreation - 2016 - source
+
+COMP_S - Number of Companies: Other service activities - 2016 - source
+
+COMP_T - Number of Companies: Domestic services - 2016 - source
+
+COMP_U - Number of Companies: International and other extraterritorial institutions - 2016
